@@ -11,13 +11,13 @@ The goal of this project is to showcase basic to intermediate proficiency in Jav
 ---
 
 ## Project Structure
-.
+```
 ├── index.html
 ├── tracking.js
 ├── form-validation.js
 ├── queries.sql
 └── README.md
-
+```
 ## Technologies Used
 
 - HTML – Page structure and form elements  
